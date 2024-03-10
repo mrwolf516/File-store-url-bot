@@ -27,10 +27,10 @@
         "DB_CHANNEL": {
             "description": "The Channel ID which will be used as Database. Example: -100123456789"
         },
-        "SHORTLINK_URL": {
+        "TECH_VJ_URL": {
             "description": "Your URL Shortner Domain Name"
         },
-        "SHORTLINK_API": {
+        "TECH_VJ_API": {
             "description": "Your Url Shortner Api Token"
         },
         "BOT_OWNER": {
